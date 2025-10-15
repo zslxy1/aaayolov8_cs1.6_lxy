@@ -1,0 +1,5 @@
+path: C:\Users\24543\Desktop\pychram_python\aaayolov10_cs1.6_lxy\data
+train: images/train
+val: images/val
+nc: 2
+names: ['head','body']
